@@ -2403,7 +2403,7 @@ ul {
   transform: scale(1);
 }
 .main_logo {
-  width: 180px;
+  width: 250px;
 }
 .main_logo_footer {
   width: 180px;
@@ -2632,8 +2632,8 @@ ul {
 }
 
 .menu_fixed .navbar-brand img {
-  max-width: 100px;
-  margin-top: -8px !important;
+  max-width: 200px;
+  margin-top: -3px !important;
 }
 
 /* line 316, ../../01 cl html template/03_jun 2019/185 Ecobit SAAS html/sass/_menu.scss */
